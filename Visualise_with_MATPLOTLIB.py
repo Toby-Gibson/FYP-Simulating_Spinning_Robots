@@ -1,7 +1,7 @@
 # Uses MatPlotLib to visualise the data
 # The visualisation is outputted as frames (we are yet to animate these frames into video format
 # Similarly we need to add arrows to the particles and add their rotation
-# This code uses the text file data outputted using Version_4_5.1_TEXT_FILE_output.py
+# This code uses the text file data outputted using Version_4_5_textfile_data_output.py
 
 from matplotlib import pyplot as plt
 from matplotlib.patches import Circle, Wedge, Polygon
